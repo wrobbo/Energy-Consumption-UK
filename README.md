@@ -3,4 +3,4 @@ A Processing sketch showing how the energy consumption by fuel type has changed 
 
 The user can interact with the sketch by pressing numerical keys 1 through 5 in order to change the year that is being displayed.
 
-THe sketch can be seen in action on my website; wrobbo.com/uk-energy-project.html.
+The sketch can be seen in action on my website; wrobbo.com/uk-energy-project.html.
